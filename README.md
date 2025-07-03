@@ -1,11 +1,14 @@
 ## Hi there 👋
 
-![Mine](mines1.png)
+<p align="center">
+  <img src="mines1.png" alt="Mine" width="400"/>
+</p>
+
 
 
 <!--
 **its-anya/its-anya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Mine](mines1.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
