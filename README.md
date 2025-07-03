@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Mine](mine.png)
+![Mine](mines.png)
 
 
 <!--
