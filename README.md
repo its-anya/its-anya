@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Mine](mine.png)
+
+
 <!--
 **its-anya/its-anya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
