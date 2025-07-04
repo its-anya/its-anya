@@ -35,7 +35,7 @@
 
 ### 🔗 Links
 
-- 🌐 [GitHub Profile](https://github.com/its-anya)
+- 🌐 [My Website](https://its-anya.github.io/)
 - 📫 [My Website](#)
 
 ---
