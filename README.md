@@ -1,4 +1,9 @@
-
+<!-- For dark mode -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=its-anya&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-stats.vercel.app/api?username=its-anya&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)">
+  <img src="https://github-readme-stats.vercel.app/api?username=its-anya&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+</picture>
 
 
 ## Hi there 👋
