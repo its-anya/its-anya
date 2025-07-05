@@ -3,11 +3,9 @@
 
 ## Hi there 👋
 
-<div align="center">
-
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="60%">
       <h3>🍀 About Me</h3>
       <ul>
         <li>🔭 I’m currently working on personal fun projects.</li>
@@ -16,13 +14,12 @@
         <li>⚡ Fun fact: I code better when my laptop has cat ears 😺.</li>
       </ul>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/its-anya/its-anya/main/mines1.png" alt="Anya with Laptop" width="250"/>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/its-anya/its-anya/main/mines1.png" alt="Anya with Laptop" width="300"/>
     </td>
   </tr>
 </table>
 
-</div>
 
 
 
