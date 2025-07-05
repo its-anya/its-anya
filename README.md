@@ -2,20 +2,24 @@
 
 
 ## Hi there 👋
-<p align="center">
-  <img src="https://raw.githubusercontent.com/its-anya/its-anya/main/mines1.png" alt="Anya with Laptop" width="300"/>
-</p>
 
----
+<table>
+  <tr>
+    <td>
+      <h3>👩‍💻 About Me</h3>
+      <ul>
+        <li>🔭 I’m currently working on personal fun projects.</li>
+        <li>🌱 I’m learning GitHub, Web, and Anime-based UI designs.</li>
+        <li>💬 Ask me about anything related to Anime tech themes.</li>
+        <li>⚡ Fun fact: I code better when my laptop has cat ears 😺.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/its-anya/its-anya/main/mines1.png" alt="Anya with Laptop" width="250"/>
+    </td>
+  </tr>
+</table>
 
-### 👩‍💻 About Me
-
-- 🔭 I’m currently working on personal fun projects.
-- 🌱 I’m learning GitHub, Web, and Anime-based UI designs.
-- 💬 Ask me about anything related to Anime tech themes.
-- ⚡ Fun fact: I code better when my laptop has cat ears 😺.
-
----
 
 ### 📊 GitHub Stats
 
@@ -61,4 +65,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/its-anya/its-anya/main/mines1.png" alt="Anya with Laptop" width="300"/>
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🔭 I’m currently working on personal fun projects.
+- 🌱 I’m learning GitHub, Web, and Anime-based UI designs.
+- 💬 Ask me about anything related to Anime tech themes.
+- ⚡ Fun fact: I code better when my laptop has cat ears 😺.
+
+---
 -->
