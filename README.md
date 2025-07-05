@@ -5,8 +5,8 @@
 
 <table>
   <tr>
-    <td>
-      <h3>👩‍💻 About Me</h3>
+    <td valign="top">
+      <h3>🧩 About Me</h3>
       <ul>
         <li>🔭 I’m currently working on personal fun projects.</li>
         <li>🌱 I’m learning GitHub, Web, and Anime-based UI designs.</li>
@@ -19,6 +19,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ### 📊 GitHub Stats
