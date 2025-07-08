@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="70%">
       <h3>🍀 About Me</h3>
       <ul>
         <li>🔭 I’m currently working on personal fun projects.</li>
