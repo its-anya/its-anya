@@ -1,6 +1,10 @@
 
 ## Hi there 👋
 
+<!-- Hot Pink
+<img src="https://komarev.com/ghpvc/?username=its-anya&label=Profile%20Views&color=ff1493&style=flat" alt="its-anya" />
+ -->
+ 
 <table>
   <tr>
     <td valign="top" width="70%">
@@ -85,10 +89,12 @@ Here are some ideas to get you started:
 
 
 
-<!-- Hot Pink 
-<img src="https://komarev.com/ghpvc/?username=its-anya&label=Profile%20Views&color=ff1493&style=flat" alt="its-anya" />
--->
 
 
+
+<!-- Hot Pink -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=its-anya&label=Profile%20Views&color=ff1493&style=flat" alt="its-anya" />
+</div>
 
 
