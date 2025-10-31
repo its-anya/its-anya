@@ -63,10 +63,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=its-anya&theme=radical&hide_border=true&background=0d1117&ring=ff1493&fire=ff1493&currStreakLabel=ff1493" alt="GitHub Streak"/>
-</div>
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-anya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff1493&line=ff1493&point=c9d1d9" alt="Contribution Graph"/>
