@@ -60,16 +60,16 @@ const anya = {
 
 ## 🔥 GitHub Activity
 
-
+<div align="center">
+  <!-- Use new working streak stats domain -->
+  <img src="https://streak-stats.demolab.com/?user=its-anya&theme=radical&hide_border=true&background=0d1117&ring=ff1493&fire=ff1493&currStreakLabel=ff1493" alt="GitHub Streak"/>
+</div>
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-anya&theme=radical" alt="Profile Summary" width="95%" />
 </div>
 
-<div align="center">
-  <!-- Use new working streak stats domain -->
-  <img src="https://streak-stats.demolab.com/?user=its-anya&theme=radical&hide_border=true&background=0d1117&ring=ff1493&fire=ff1493&currStreakLabel=ff1493" alt="GitHub Streak"/>
-</div>
+
 
 ---
 
