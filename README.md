@@ -118,3 +118,11 @@ const anya = {
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Anime+Enthusiast+🌸;Web+Developer+💻;UI%2FUX+Designer+✨;Cat+Lover+😺;Always+Learning!+📚" alt="Typing SVG" />
 </p>-->
+
+
+
+<!-- ⚡ Fun Section
+<div align="center">
+## ⚡ Quick Facts
+<img src="https://github-widgetbox.vercel.app/api/profile?username=its-anya&data=followers,repositories,stars,commits&theme=radical" alt="GitHub WidgetBox" />
+</div> -->
