@@ -83,3 +83,14 @@ const anya = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=100&section=footer"/>
 </p>
+
+
+
+
+<!-- <div align="center">
+
+### 🎵 Spotify Playing
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/)
+
+<br/> -->
