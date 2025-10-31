@@ -74,8 +74,9 @@ const anya = {
 [![Website](https://img.shields.io/badge/Website-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white)](https://its-anya.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-anya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
+<img src="https://komarev.com/ghpvc/?username=its-anya&label=Profile%20Views&color=ff1493&style=for-the-badge" alt="Profile Views"/>
 </div>
+
 
 ---
 
