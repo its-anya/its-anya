@@ -52,6 +52,7 @@ const anya = {
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
+  <p align="center">🔥🔥🔥</p>
   <!-- Use new working streak stats domain -->
   <img src="https://streak-stats.demolab.com/?user=its-anya&theme=radical&hide_border=true&background=0d1117&ring=ff1493&fire=ff1493&currStreakLabel=ff1493" alt="GitHub Streak"/>
 </div>
