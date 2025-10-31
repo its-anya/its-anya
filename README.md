@@ -49,25 +49,28 @@ const anya = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=its-anya&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&icon_color=ff1493&text_color=c9d1d9" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-anya&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=c9d1d9" />
-</div>
-
----
-
-## 🔥 GitHub Activity
+## 📈 GitHub Stats & Activity
 
 <div align="center">
   <!-- Use new working streak stats domain -->
   <img src="https://streak-stats.demolab.com/?user=its-anya&theme=radical&hide_border=true&background=0d1117&ring=ff1493&fire=ff1493&currStreakLabel=ff1493" alt="GitHub Streak"/>
 </div>
 
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=its-anya&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&icon_color=ff1493&text_color=c9d1d9" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-anya&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=c9d1d9" />
+</div>
+
+
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-anya&theme=radical" alt="Profile Summary" width="95%" />
 </div>
+
+
+
+
+
 
 
 
