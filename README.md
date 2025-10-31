@@ -8,6 +8,10 @@
   <img src="https://raw.githubusercontent.com/its-anya/its-anya/main/mines1.png" width="250" alt="Anya with Laptop"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=its-anya&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</p>
+
 ---
 
 ### 🍀 About Me
@@ -54,15 +58,17 @@ const anya = {
 
 ---
 
-## 🔥 GitHub Streak & Activity
+## 🔥 GitHub Activity
+
+
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-anya&theme=radical" alt="Profile Summary" width="95%" />
+</div>
 
 <div align="center">
   <!-- Use new working streak stats domain -->
   <img src="https://streak-stats.demolab.com/?user=its-anya&theme=radical&hide_border=true&background=0d1117&ring=ff1493&fire=ff1493&currStreakLabel=ff1493" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-anya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff1493&line=ff1493&point=c9d1d9" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -94,3 +100,10 @@ const anya = {
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/)
 
 <br/> -->
+
+
+
+
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-anya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff1493&line=ff1493&point=c9d1d9" alt="Contribution Graph"/>
+</div> -->
