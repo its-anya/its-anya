@@ -110,3 +110,11 @@ const anya = {
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-anya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff1493&line=ff1493&point=c9d1d9" alt="Contribution Graph"/>
 </div> -->
+
+
+
+
+<!-- 🎀 Typing Animation 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Anime+Enthusiast+🌸;Web+Developer+💻;UI%2FUX+Designer+✨;Cat+Lover+😺;Always+Learning!+📚" alt="Typing SVG" />
+</p>-->
