@@ -18,12 +18,11 @@
 
 ```typescript
 const anya = {
-    pronouns: "she/her",
     location: "India 🇮🇳",
-    current: "Building fun projects",
+    current: "Building projects",
     learning: ["GitHub", "Web Design", "UI/UX"],
-    interests: ["Anime", "Coding", "Design", "Cats 😺"],
-    funFact: "I code better with cat ears on! 🐱✨"
+    interests: ["Anime", "Coding", "Design", "Cats"],
+    funFact: "If certain technologies didn’t exist, I wouldn’t exist."
 };
 ```
 ---
