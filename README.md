@@ -1,6 +1,6 @@
 <!-- 🌸 Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=180&section=header&text=Hi%20There!%20I'm%20Anya%20💖&fontColor=ffffff&fontSize=35&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=180&section=header&text=Hi%20There!%20I'm%20Suspicious%20💖&fontColor=ffffff&fontSize=35&fontAlignY=35"/>
 </p>
 
 <!-- 🌷 Intro Section -->
